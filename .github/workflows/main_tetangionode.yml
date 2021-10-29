@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TETAngioNode'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F679057228614DF29AC7B844C83225E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F7FA9AF3CD84F51B02647A27D1AAD57 }}
           package: .
