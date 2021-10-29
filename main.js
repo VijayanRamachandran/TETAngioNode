@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`ANGIO Node Express App listening at https://localhost:${port}`)
+  console.log(`ANGIO Node Express App listening at http://localhost:${port}`)
 })
